@@ -3,6 +3,7 @@ I'm a second-year **Applied Computer Science** student at *Transilvania Universi
 💻 Passionate about programming, always eager to learn new technologies, improve my skills, and build exciting projects.  
 🚀 Exploring different tech stacks and working on real-world applications!  
 
+---
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/paul.gabriel.30.09) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/paul_gabriel30) 
